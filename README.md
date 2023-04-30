@@ -18,6 +18,6 @@ Developed by **Mokha Design / Marian Pugliese**.
 
 [Homepage](https://mokha.me/) - [Mastodon](https://mastodon.gamedev.place/@novembrinewaltz) - [LinkedIn](https://www.linkedin.com/in/marianhev/)
 
-The example demo uses the **Atkinson Hyperlegible** font designed by **Braille Institute**, Applied Design Works, Elliott Scott, Megan Eiswerth, Linus Boman, Theodore Petrosky. You can download the free font from **Google Fonts**, or from the **[Braille Institute** website](https://brailleinstitute.org/freefont).
+The example demo uses the **Atkinson Hyperlegible** font designed by **Braille Institute**, Applied Design Works, Elliott Scott, Megan Eiswerth, Linus Boman, Theodore Petrosky. You can download the free font from **Google Fonts**, or from the [**Braille Institute** website](https://brailleinstitute.org/freefont).
 
 **Mokha UI - Logicless Buttons** by **Mokha Design / Marian Pugliese** is licensed under a **Creative Commons Attribution-ShareAlike 4.0 International License**. You **may** use and adapt it for your games, experiences and applications with attribution. You **may not** repackage it as a stand-alone commercial product.
