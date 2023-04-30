@@ -1,4 +1,4 @@
-# Mokha UI - Logicless Buttons Documentation
+# Mokha UI - Logicless Buttons 
 
 # Overview
 
@@ -11,6 +11,11 @@ The plugin comes packed with a titular **L_ExampleMap** example map. Contained i
 ### Why not use Common UI’s Button Groups?
 
 Use whatever works best for you.
+
+### What next?
+
+Probably I'll add an option to have ListButton feasible stand-alone (i.e. when you want only one button at a time).
+This way you'd not need two or more separate button widgets. You can either implement it yourself or wait for me to do it. But I wouldn't wait for me.
 
 # Credits
 
