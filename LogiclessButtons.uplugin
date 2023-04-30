@@ -1,0 +1,30 @@
+{
+	"FileVersion": 3,
+	"Version": 1,
+	"VersionName": "1.0",
+	"FriendlyName": "Mokha UI - Logicless Button",
+	"Description": "Part of the Mokha UI Library",
+	"Category": "UI",
+	"CreatedBy": "Mokha Design",
+	"CreatedByURL": "https://mokha.me",
+	"DocsURL": "https://mokha.notion.site/mokha/Mokha-UI-Logicless-Buttons-Documentation-96a01d1fa5ab4117889fbbc72cec6eb0",
+	"MarketplaceURL": "",
+	"SupportURL": "",
+	"CanContainContent": true,
+	"IsBetaVersion": true,
+	"IsExperimentalVersion": false,
+	"Installed": false,
+	"Modules": [
+		{
+			"Name": "LogiclessButtons",
+			"Type": "Runtime",
+			"LoadingPhase": "Default"
+		}
+	],
+	"Plugins": [
+		{
+			"Name": "CommonUI",
+			"Enabled": true
+		}
+	]
+}
